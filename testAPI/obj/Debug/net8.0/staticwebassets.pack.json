@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\4cd3ad5a-48fd-486f-8448-682c428d0d58.png",
+      "PackagePath": "staticwebassets\\uploads\\4cd3ad5a-48fd-486f-8448-682c428d0d58.png"
+    },
+    {
+      "Id": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\bbe9fe66-d235-46a7-a2e8-ea74453cbd61.png",
+      "PackagePath": "staticwebassets\\uploads\\bbe9fe66-d235-46a7-a2e8-ea74453cbd61.png"
+    },
+    {
+      "Id": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\de92f230-f848-4a3f-85d3-b459ca4fbb35.png",
+      "PackagePath": "staticwebassets\\uploads\\de92f230-f848-4a3f-85d3-b459ca4fbb35.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.testAPI.props",
+      "PackagePath": "build\\testAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.testAPI.props",
+      "PackagePath": "buildMultiTargeting\\testAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.testAPI.props",
+      "PackagePath": "buildTransitive\\testAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.testAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

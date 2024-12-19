@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "GQIODaKk8vbu5MOLl3XDzVyZo/fFRS8DK6e04CF626w=",
+  "Source": "testAPI",
+  "BasePath": "_content/testAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "testAPI\\wwwroot",
+      "Source": "testAPI",
+      "ContentRoot": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\",
+      "BasePath": "_content/testAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\4cd3ad5a-48fd-486f-8448-682c428d0d58.png",
+      "SourceId": "testAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\",
+      "BasePath": "_content/testAPI",
+      "RelativePath": "uploads/4cd3ad5a-48fd-486f-8448-682c428d0d58.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4cd3ad5a-48fd-486f-8448-682c428d0d58.png"
+    },
+    {
+      "Identity": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\bbe9fe66-d235-46a7-a2e8-ea74453cbd61.png",
+      "SourceId": "testAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\",
+      "BasePath": "_content/testAPI",
+      "RelativePath": "uploads/bbe9fe66-d235-46a7-a2e8-ea74453cbd61.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bbe9fe66-d235-46a7-a2e8-ea74453cbd61.png"
+    },
+    {
+      "Identity": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\uploads\\de92f230-f848-4a3f-85d3-b459ca4fbb35.png",
+      "SourceId": "testAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bimob\\Desktop\\testAPI\\wwwroot\\",
+      "BasePath": "_content/testAPI",
+      "RelativePath": "uploads/de92f230-f848-4a3f-85d3-b459ca4fbb35.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\de92f230-f848-4a3f-85d3-b459ca4fbb35.png"
+    }
+  ]
+}
